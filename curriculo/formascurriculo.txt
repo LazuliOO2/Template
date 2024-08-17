@@ -1,0 +1,22 @@
+Forma de como posso coloca no meu curriculo Exemplo:
+
+Front-end:
+
+Domínio: HTML5, CSS3 (Bootstrap), JavaScript
+Aprendizado: React (em desenvolvimento)
+Back-end:
+
+Domínio: Python (Django, Flask), Node.js (Express), SQL
+Aprendizado: PHP (estudando frameworks como Laravel)
+Data Science:
+
+Domínio: Python (Pandas, NumPy), Machine Learning (Scikit-learn)
+Aprendizado: Deep Learning (TensorFlow, PyTorch), Visualização de dados (Plotly, Seaborn)
+Automação:
+
+Domínio: Python (PyAutoGUI, Selenium), testes unitários com pytest
+Aprendizado: Testes de integração, testes de API, Cypress
+Outros:
+
+Domínio: Desenvolvimento de APIs RESTful
+Aprendizado: Cloud Computing (AWS, GCP), DevOps
